@@ -24,7 +24,7 @@ Tenho experiência com CSS, HTML, JavaScript, TypeScript, ReactJS, MySQL, MongoD
 
 <h3 align="center">Entre em contato:</h3>
 <p align="center">
-  <a href="mailto:m1joninhaa@gmail.com" target="_blank">
+  <a href="mailto:mailto:jodmdev@outlook.com" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-Gmail-007ee5?style=for-the-badge&logo=mention&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/jodmdev/" target="_blank">
